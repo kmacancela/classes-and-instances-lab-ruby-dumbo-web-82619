@@ -1,6 +1,4 @@
 class Dog
-  
-    fido = ""
-    @snoopy = ""
-
 end
+
+fido = Dog.new
